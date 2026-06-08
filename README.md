@@ -24,7 +24,7 @@ projects that are clean, functional, and user-friendly.
 ## 📌 Currently
 
 - 🎓 Studying Python Full Stack Development at **Livewire Institute**, Coimbatore
-- 💻 Building projects with Django and MySQL
+- 🐍 Currently learning Python — Django and MySQL coming next
 - 🎯 Looking for entry-level opportunities at product-based companies
 
 ---
