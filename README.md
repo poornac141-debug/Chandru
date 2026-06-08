@@ -36,12 +36,12 @@ A multi-page travel and tourism website built as part of my frontend training.
 
 **Tech used:** HTML5 · CSS3 · JavaScript 
 
-🔗 [View Repository](https://github.com/Chandru/travel-tourism-website)
+🔗 [View Repository](https://github.com/poornac141-debug/travel-tourism-website)
 
 ---
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/poornachandru-r358)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornachandru-r358)
 
 💼 Open to internships and fresher roles in web development.
